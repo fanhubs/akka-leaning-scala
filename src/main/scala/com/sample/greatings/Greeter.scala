@@ -1,4 +1,4 @@
-package com.lightbend.akka.sample.greatings
+package com.sample.greatings
 
 import akka.actor.{Actor, ActorLogging}
 
