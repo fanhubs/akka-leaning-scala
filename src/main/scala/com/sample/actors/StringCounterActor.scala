@@ -1,4 +1,4 @@
-package com.lightbend.akka.sample.actors
+package com.sample.actors
 
 import akka.actor.{Actor, ActorLogging, actorRef2Scala}
 
